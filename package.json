@@ -1,0 +1,17 @@
+{
+  "name": "tumburglar",
+  "version": "0.0.1",
+  "description": "Utility library for getting non-OAuth Tumblr data painless.",
+  "main": "tumburglar.js",
+  "repository": "https://github.com/wayspurrchen/tumburglar",
+  "keywords": [
+    "tumblr"
+  ],
+  "author": "Way Spurr-Chen",
+  "license": "MIT",
+  "devDependencies": {
+    "q": "~0.9.7",
+    "lodash": "~2.2.0",
+    "tumblr.js": "0.0.4"
+  }
+}
